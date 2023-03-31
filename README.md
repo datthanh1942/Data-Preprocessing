@@ -4,9 +4,19 @@ This repository contains code for a lab assignment on data preprocessing. The co
 
 ## Features
 
-- **Filter missing values**: This feature allows you to remove rows or columns with missing values from your dataset.
+- **List attributes with missing data
 
-- **Remove outliers**: This feature helps you identify and remove outliers from your dataset to improve the accuracy of your analysis.
+- **Fill out the missing data (by constant, mean, median or mode)
 
-- **One-hot encoding**: This feature converts categorical variables into a format that can be used in machine learning algorithms.
+- **Filter out rows and columns with a certain amount of missing data
+
+- **Remove duplicated rows
+
+- **Remove outliers
+
+- **Calculate point combinations
+
+- **Normalize data (min-max and Z-score)
+
+- **Apply One-hot encoding
 
