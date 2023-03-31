@@ -4,19 +4,19 @@ This repository contains code for a lab assignment on data preprocessing. The co
 
 ## Features
 
-- **List attributes with missing data
+-**List attributes with missing data
 
-- **Fill out the missing data (by constant, mean, median or mode)
+-**Fill out the missing data (by constant, mean, median or mode)
 
-- **Filter out rows and columns with a certain amount of missing data
+-**Filter out rows and columns with a certain amount of missing data
 
-- **Remove duplicated rows
+-**Remove duplicated rows
 
-- **Remove outliers
+-**Remove outliers
 
-- **Calculate point combinations
+-**Calculate point combinations
 
-- **Normalize data (min-max and Z-score)
+-**Normalize data (min-max and Z-score)
 
-- **Apply One-hot encoding
+-**Apply One-hot encoding
 
